@@ -1,0 +1,6 @@
+url: https://github.com/Mola-maker/dsh-kit/tree/main/packages/workflow-skills
+name: Mola-maker/dsh-kit#workflow-skills
+category: skill
+description:
+  en: Seven workflow skills registered at runtime for every preset in a profile, namely eval-first, deep-research, parallel-dispatch, ship-pr, plugin-intake, token-thrift and desktop-operator.
+  zh: 运行时为 profile 内所有预设注册七个工作流技能：eval-first、deep-research、parallel-dispatch、ship-pr、plugin-intake、token-thrift 与 desktop-operator。
