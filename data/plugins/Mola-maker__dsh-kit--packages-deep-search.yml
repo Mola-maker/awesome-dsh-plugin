@@ -1,0 +1,6 @@
+url: https://github.com/Mola-maker/dsh-kit/tree/main/packages/deep-search
+name: Mola-maker/dsh-kit#deep-search
+category: tools
+description:
+  en: Multi-channel search tools for DeepSeek Harness. deep_search queries web, Exa, Tavily, GitHub and MCP search servers, merges the results by reciprocal-rank fusion, and retries rate-limited calls; deep_verify checks that a cited page contains the claim's numbers and terms.
+  zh: dsh 多渠道搜索工具。deep_search 并行查询 web、Exa、Tavily、GitHub 与 MCP 搜索服务，按倒数排名融合结果，并对限流请求退避重试；deep_verify 核对被引用页面是否包含论断中的数字与关键词。
